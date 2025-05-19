@@ -71,3 +71,39 @@ main{
     background-color: black;}
 
 }
+
+
+
+@media(width<=767px){
+.tamaño-card{
+    width: 75%;
+    height: 50%;
+    }
+.integrantes:hover{
+ transform: scale(1.1) translateZ(1px);  
+ transition: 500ms; 
+    }
+}
+
+@media(768px<=width<=991px){
+.tamaño-card{
+    width: 50%;
+    height: 50%;
+}
+.integrantes:hover{
+ transform: scale(1.1) translateZ(1px);  
+ transition: 500ms; 
+    }
+}
+
+@media(width>=992px){
+.tamaño-card{
+    margin: auto;
+    width: 30%;
+    height: 50%;
+}
+.integrantes:hover{
+ transform: scale(1.1) translateZ(1px);  
+ transition: 500ms; 
+    }
+}
