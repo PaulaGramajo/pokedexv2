@@ -35,13 +35,6 @@ main{
     color:#f2e68b;
 }
 
-.imagenError404{
-width: 100%;
-  height: auto;
-  object-fit: contain;
-}
-
-.bottonErorr404{
-    position: relative;
-    z-index: 10;
+.bg-error-404{
+    background-color: black;
 }
