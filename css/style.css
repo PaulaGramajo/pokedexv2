@@ -35,3 +35,15 @@ main{
     color:#f2e68b;
 }
 
+.imagenError404{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.bottonErorr404{
+    position: relative;
+    z-index: 10;
+}
