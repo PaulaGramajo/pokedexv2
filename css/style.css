@@ -66,4 +66,8 @@ main{
 
 .bg-card-head{
     background-color: rgb(204, 219, 226);
+
+.bg-error-404{
+    background-color: black;
+
 }
