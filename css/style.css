@@ -35,3 +35,19 @@ main{
     color:#f2e68b;
 }
 
+.poder-cesped{
+    background-color: green;
+}
+
+
+.poder-veneno{
+    background-color: rgb(121, 18, 180);
+}
+
+.bg-card-body{
+    background-color: rgb(68, 99, 99);
+}
+
+.bg-card-head{
+    background-color: rgb(204, 219, 226);
+}
