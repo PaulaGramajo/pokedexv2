@@ -78,6 +78,12 @@ main {
     height: auto;
   }
 
+  .img-evolucion{
+    width: 100%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+}
+
 @media (width<=767px) {
   .tamaño-card {
     width: 75%;
